@@ -1,0 +1,22 @@
+*,*::after,*::before{
+    padding: 0%;
+}
+body{
+    /* background-color: whitesmoke; */
+    background-image: radial-gradient(white  ,whitesmoke);    
+}
+.logo{
+    align-content: center;
+    margin-top: 13rem;
+    background-color: black;
+    color: white;
+}
+.logo_left{
+    margin-right: 5px;
+}
+.load-image{
+    font-size: 10rem;
+    
+    margin-bottom: 2.5rem;
+    
+}
